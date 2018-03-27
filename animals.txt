@@ -1,5 +1,5 @@
-lion red
-tiger green 
-leopard blue
-turtle white
-snake pink
+lion - orange
+tiger - red
+leopard - light yellow
+turtle - green
+snake - black
