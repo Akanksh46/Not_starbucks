@@ -1,0 +1,5 @@
+lion red
+tiger green 
+leopard blue
+turtle white
+
